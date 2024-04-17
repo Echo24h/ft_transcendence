@@ -1,1 +1,0 @@
-{"version":3,"file":"chat.entity.js","sourceRoot":"","sources":["../../src/chat/chat.entity.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAwF;AAGjF,IAAM,IAAI,GAAV,MAAM,IAAI;CAahB,CAAA;AAXG;IAAC,IAAA,gCAAsB,GAAE;;gCACd;AAEX;IAAC,IAAA,gBAAM,GAAE;;sCACQ;AAEjB;IAAC,IAAA,gBAAM,GAAE;;yCACW;AAEpB;IAAC,IAAA,gBAAM,GAAE;;sCACQ;AAZR,IAAI;IADhB,IAAA,gBAAM,GAAE;GACI,IAAI,CAahB;AAbY,oBAAI"}

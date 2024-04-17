@@ -1,31 +1,18 @@
-## Installation
+## Deploy
 
-```bash
-$ npm install
-```
+Use `make`, quite simply
 
-## Running the app
+## Adress
 
-```bash
-# development
-$ npm run start
-```
+Angular: `localhost:4200`
 
-## Test
+NestJS: `localhost:3000`
 
-```bash
-# unit tests
-$ npm run test
-```
+PostgreSQL: `localhost:5432` (Don't send request)
 
-## Ressource
+Acces to database: `docker exec -it database psql -U user -d database -W` (Password is prompt)
+View all tables: `\dt`
+Select table: `SELECT * from "tablename"`
 
-* https://www.youtube.com/watch?v=pcX97ZrTE6M&list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
 
-* https://www.youtube.com/watch?v=wqhNoDE6pb4
-
-* Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+_PS: make sure you have docker-compose installed on your machine_
