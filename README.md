@@ -16,3 +16,6 @@ Select table: `SELECT * from "tablename"`
 
 
 _PS: make sure you have docker-compose installed on your machine_
+
+<img width="100%" src="https://github.com/Echo24h/Echo24h/blob/main/ft_transcendence1" alt="Graph Linear Regression"/>
+<img width="100%" src="https://github.com/Echo24h/Echo24h/blob/main/ft_transcendence2" alt="Graph Linear Regression"/>
